@@ -6,7 +6,7 @@ Therefore, the purpose of this project is to exclude the inaccurate data from th
 
 ## Results
 ### How is the district summary affected:
-The district summary was not significantly affected by the updated analysis. In compariing [Original School Analysis](/Resources/PyCitySchools.htm). with Y, the following observations were made:
+The district summary was not significantly affected by the updated analysis. In compariing [Original School Analysis](/PyCitySchools.ipynb) with [Updated School Analysis](/PyCitySchools_Challenge_testing.ipynb), the following observations were made:
 - The updated district summary included analysis for 38,709 students versus the original 39,170 students. This is a delta of 461 students. 
 - The updated district summary shows a 0.1 decrease in Average Math Score, from 79.0 to 78.9.
 - The updated district summary shows no change in the Average Reading Score, keeping at 81.9 for both.
@@ -14,6 +14,7 @@ The district summary was not significantly affected by the updated analysis. In 
 - The updated district summary shows a 0.3% decrease in the percentage of students passing reading (% Passing Reading), from 86% to 85.7%.
 - The updated district summary shows a 0.1% decrease in the percentage of students passing both math and reading (% Overall Passing), from 65% to 64.9%.
 - 
+- ![Original District Summary](/VBA_Challenge_2017_table.png)  
 
 
 ### How is the school summary affected:
