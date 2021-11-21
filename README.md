@@ -6,7 +6,7 @@ Therefore, the purpose of this project is to exclude the inaccurate data from th
 
 I referenced and compared the following two files when creating this report: 
 - [Original School Analysis](/PyCitySchools.ipynb) 
-- [Updated School Analysis](/PyCitySchools_Challenge_testing.ipynb) 
+- [Updated School Analysis](/PyCitySchools_Challenge.ipynb) 
 
 ## Results
 ### How is the district summary affected:
